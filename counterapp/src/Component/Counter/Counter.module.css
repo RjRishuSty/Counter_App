@@ -1,0 +1,22 @@
+.card{
+    /* border: 2px solid red; */
+    width: auto;
+    height: auto;
+    padding: 50px 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+}
+.heading{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+    margin-bottom: 25px;
+}
+.countValue{
+    font-size: 1.5rem;
+    text-align: start;
+    padding-left: 50px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
